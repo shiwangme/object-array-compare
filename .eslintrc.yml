@@ -1,0 +1,6 @@
+root: true
+extends: willin
+globals:
+  suite: true
+  set: true
+  bench: true
